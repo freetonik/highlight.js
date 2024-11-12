@@ -34,7 +34,7 @@ detection.
   - [In the Browser](#in-the-browser)
     - [Plaintext Code Blocks](#plaintext-code-blocks)
     - [Ignoring a Code Block](#ignoring-a-code-block)
-  - [Node.js on the Server](#nodejs-on-the-server)
+  - [Node.js on the Server](#node-js-on-the-server)
 - [Supported Languages](#supported-languages)
 - [Custom Usage](#custom-usage)
   - [Using custom HTML](#using-custom-html)
